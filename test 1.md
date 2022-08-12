@@ -26,7 +26,5 @@ _Đầu năm 2021,_ mặt bằng thi công tuyến Metro Số 1 (Bến Thành - 
 
 * Thời điểm xảy ra tai nạn, khu vực trên đang mưa lớn, đường vắng. Tài xế cho biết đường trơn nên đã mất kiểm soát tay lái, dẫn tới tai nạn.
 * Thời điểm xảy ra tai nạn, khu vực trên đang mưa lớn, đường vắng. Tài xế cho biết đường trơn nên đã mất kiểm soát tay lái, dẫn tới tai nạn.
-* Thời điểm xảy ra tai nạn, khu vực trên đang mưa lớn, đường vắng. Tài xế cho biết đường trơn nên đã mất kiểm soát tay lái, dẫn tới tai nạn.
-* Thời điểm xảy ra tai nạn, khu vực trên đang mưa lớn, đường vắng. Tài xế cho biết đường trơn nên đã mất kiểm soát tay lái, dẫn tới tai nạn.
 
 

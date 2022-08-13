@@ -1,7 +1,8 @@
 # News
-## Đường Lê Lợi được trả mặt bằng sau 8 năm rào chắn
+## Đường Lê Lợi được trả mặt bằng sau 8 năm rào 
+test2
 
-*Ngày 12/8, đường Lê Lợi dài khoảng 800 m*, **từ đoạn giao với phố đi bộ Nguyễn Huệ đến chợ Bến Thành**, một trong những khu vực kinh doanh, buôn bán sầm uất nhất TP HCM, không còn cảnh "lô cốt" án ngữ.
+
 
 
 _Đầu năm 2021,_ mặt bằng thi công tuyến Metro Số 1 (Bến Thành - Suối Tiên) trên đường Lê Lợi được tái lập dần. Tám năm trước, rào chắn phục vụ thi công ga ngầm Nhà hát thành phố dựng lên, đường Lê Lợi như đại công trường ảnh hưởng cuộc sống, kinh doanh người dân hai bên.
